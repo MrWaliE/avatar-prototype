@@ -1,0 +1,5 @@
+{
+  "name": "GenVideo AI Studio",
+  "description": "A powerful AI video generation and editing suite powered by Veo and Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
